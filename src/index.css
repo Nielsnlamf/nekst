@@ -7,3 +7,18 @@ body {
     background-color: #00000095;
     color: white;
 }
+
+div.intro {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    
+    border: 5px solid red;
+    top: 50%;
+}
+
+h1.intro {
+    padding: 1rem;
+    margin: 0px;
+}
