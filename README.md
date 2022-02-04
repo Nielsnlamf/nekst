@@ -1,2 +1,3 @@
-# nekst
-Nekst is going to be your next text editor!
+## Your Nekst text editor
+### Features
+##### Readme is still a WIP, more coming soon as well as more features :)

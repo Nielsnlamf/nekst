@@ -13,7 +13,7 @@ div.intro {
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
-    
+
     border: 5px solid red;
     top: 50%;
 }
