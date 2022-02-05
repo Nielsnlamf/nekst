@@ -9,16 +9,17 @@ body {
 }
 
 div.intro {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    align-items: center;
+    text-align: center;
 
-    border: 5px solid red;
+    position: absolute;
+    left: 50%;
     top: 50%;
+    transform: translate(-50%, -50%);
+    border: 5px solid red;
+    padding: 10px;
+    width: 20%;
 }
 
 h1.intro {
-    padding: 1rem;
     margin: 0px;
 }

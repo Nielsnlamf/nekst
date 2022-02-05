@@ -1,3 +1,3 @@
 window.addEventListener("DOMContentLoaded", () => {
-    document.querySelector("h4.intro").innerHTML = require('../package.json').version
+    document.querySelector("span.intro").innerHTML = require('../package.json').version
 })
