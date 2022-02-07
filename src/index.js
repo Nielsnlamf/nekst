@@ -17,10 +17,10 @@ const createWindow = () => {
     transparent: true,
     webPreferences: {
     preload: path.join(__dirname, 'preload.js')
-    }
+  }
   });
 
-  win.webContents.openDevTools(),
+  // win.webContents.openDevTools(),
   // and load the index.html of the app.
   win.loadFile(path.join(__dirname, 'index.html'));
 
