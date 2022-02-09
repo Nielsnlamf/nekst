@@ -4,7 +4,7 @@ body {
     margin: auto;
     max-width: 38rem;
     padding: 2rem;
-    background-color: #00000095;
+    background-color: #00000000;
     color: white;
 }
 
@@ -16,7 +16,7 @@ div.intro {
     top: 50%;
     transform: translate(-50%, -50%);
     border: 5px solid red;
-    padding: 10px;
+    padding: 1em;
     width: 20%;
 }
 

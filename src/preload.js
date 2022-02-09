@@ -7,4 +7,9 @@ window.addEventListener("DOMContentLoaded", () => {
 function hideDiv() {
     console.log("hiding");
     document.querySelector("div.intro").style.display = "none";
+    createSplit();
+}
+
+function createSplit(pos = 0) {
+    
 }
